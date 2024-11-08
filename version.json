@@ -2,7 +2,7 @@
   "bundles":[
     {
       "name": "model",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://raw.githubusercontent.com/tinsonive/AssetBundle_MET4337/refs/heads/main/model"
     }
   ]
